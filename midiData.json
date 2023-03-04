@@ -1,0 +1,5 @@
+[
+  { "name": "World's Smallest Violin", "artists": "AJR", "midiFilename": "Worlds_Smallest_Violin.mid", "imageFilename": "Worlds_Smallest_Violin.png", "githubUser": "ThinLiquid" },
+  { "name": "Left and Right", "artists": "Charlie Puth, Jung Kook", "midiFilename": "Left_And_Right.mid", "imageFilename": "Left_And_Right.png", "githubUser": "ThinLiquid" }
+  { "name": "Angry Birds Theme", "artists": "David Schweitzer, Ari Pulkkinen", "midiFilename": "Angry_Birds_Theme_Song.mid", "imageFilename": "Angry_Birds_Theme_Song.png", "githubUser": "ThinLiquid" }
+]
