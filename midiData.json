@@ -1,12 +1,72 @@
 [
-  { "name": "World's Smallest Violin", "artists": "AJR", "midiFilename": "Worlds_Smallest_Violin.mid", "imageFilename": "Worlds_Smallest_Violin.png", "githubUser": "ThinLiquid" },
-  { "name": "Left and Right", "artists": "Charlie Puth, Jung Kook", "midiFilename": "Left_And_Right.mid", "imageFilename": "Left_And_Right.png", "githubUser": "ThinLiquid" },
-  { "name": "Angry Birds Theme", "artists": "David Schweitzer, Ari Pulkkinen", "midiFilename": "Angry_Birds_Theme_Song.mid", "imageFilename": "Angry_Birds_Theme_Song.png", "githubUser": "CrimsonfiedOfficial" },
-  { "name": "Bloody Stream", "artists": "Coda", "midiFilename": "Bloody_Stream.mid", "imageFilename": "bloodystream.jpg", "githubUser": "Raven13111" },
-  { "name": "The Nights", "artists": "Avicii", "midiFilename": "da_nights.mid", "imageFilename": "image_2023-03-05_132139867.png", "githubUser": "Raven13111" },
-  { "name": "Bonetrousle", "artists": "Toby Fox", "midiFilename": "Undertale_OST_-_Nyeh_Heh_HehBonetrousle.mid", "imageFilename": "image_2023-03-05_132213142.png", "githubUser": "Raven13111" },
-  { "name": "This Is What Falling In Love Feels Like", "artists": "JVKE", "midiFilename": "this_is_what_falling_in_love_feels_like_-_JVKE_Piano_Solo_v5.mid", "imageFilename": "image_2023-03-05_132450116.png", "githubUser": "Raven13111" },
-  { "name": "Kill Bill", "artists": "SZA", "midiFilename": "sza kill bill piano midi.mid", "imageFilename": "image_2023-03-05_132559310.png", "githubUser": "Raven13111" },
-  { "name": "Natural", "artists": "Imagine Dragons", "midiFilename": "Natural.mid", "imageFilename": "image_2023-03-05_132641554.png", "githubUser": "Raven13111" },
-  { "name": "Viva La Vida", "artists": "Coldplay", "midiFilename": "la_viva_dida.mid", "imageFilename": "image_2023-03-05_132659603.png", "githubUser": "Raven13111" }
+  {
+    "name": "World's Smallest Violin",
+    "artists": "AJR",
+    "midiFilename": "Worlds_Smallest_Violin.mid",
+    "imageFilename": "Worlds_Smallest_Violin.png",
+    "githubUser": "ThinLiquid"
+  },
+  {
+    "name": "Left and Right",
+    "artists": "Charlie Puth, Jung Kook",
+    "midiFilename": "Left_And_Right.mid",
+    "imageFilename": "Left_And_Right.png",
+    "githubUser": "ThinLiquid"
+  },
+  {
+    "name": "Angry Birds Theme",
+    "artists": "David Schweitzer, Ari Pulkkinen",
+    "midiFilename": "Angry_Birds_Theme.mid",
+    "imageFilename": "Angry_Birds_OST.png",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Bloody Stream",
+    "artists": "Coda",
+    "midiFilename": "Bloody_Stream.mid",
+    "imageFilename": "Bloody_Stream.png",
+    "githubUser": "Raven13111"
+  },
+  {
+    "name": "The Nights",
+    "artists": "Avicii",
+    "midiFilename": "The_Nights.mid",
+    "imageFilename": "The_Nights.png",
+    "githubUser": "Raven13111"
+  },
+  {
+    "name": "Bonetrousle",
+    "artists": "Toby Fox",
+    "midiFilename": "Bonetrousle.mid",
+    "imageFilename": "Undertale_OST.png",
+    "githubUser": "Raven13111"
+  },
+  {
+    "name": "This Is What Falling In Love Feels Like",
+    "artists": "JVKE",
+    "midiFilename": "This_Is_What_Falling_In_Love_Feels_Like.mid",
+    "imageFilename": "This_Is_What_Falling_In_Love_Feels_Like.png",
+    "githubUser": "Raven13111"
+  },
+  {
+    "name": "Kill Bill",
+    "artists": "SZA",
+    "midiFilename": "Kill_Bill.mid",
+    "imageFilename": "Kill_Bill.png",
+    "githubUser": "Raven13111"
+  },
+  {
+    "name": "Natural",
+    "artists": "Imagine Dragons",
+    "midiFilename": "Natural.mid",
+    "imageFilename": "Natural.png",
+    "githubUser": "Raven13111"
+  },
+  {
+    "name": "Viva La Vida",
+    "artists": "Coldplay",
+    "midiFilename": "Viva_La_Vida.mid",
+    "imageFilename": "Viva_La_Vida.png",
+    "githubUser": "Raven13111"
+  }
 ]
