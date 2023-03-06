@@ -1,4 +1,4 @@
-name: JSON check
+name: JSON Manager
 
 on:
   push:
@@ -11,7 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: json-syntax-check
+      
+      - name: Validate JSON
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
+      - name: Minify-JSON
+        uses: StefanEnsmann/Minify-Json-Action@1.1.0
+        with:
+          input_file: midiData.json
