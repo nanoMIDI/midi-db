@@ -16,7 +16,3 @@ jobs:
         uses: limitusus/json-syntax-check@v1
         with:
           pattern: "\\.json$"
-      - name: Minify-JSON
-        uses: StefanEnsmann/Minify-Json-Action@1.1.0
-        with:
-          input_file: midiData.json
