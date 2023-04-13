@@ -131,5 +131,47 @@
     "midiFilename": "Wii_Shop_Channel_Theme.mid",
     "imageFilename": "Wii_Shop_Channel.jpeg",
     "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Levan Polkka",
+    "artists": "Eino Kettunen",
+    "midiFilename": "Levan_Polkka.mid",
+    "imageFilename": "Levan_Polkka.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Interstellar",
+    "artists": "Hans Zimmer",
+    "midiFilename": "Interstellar.mid",
+    "imageFilename": "Interstellar.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Haggstom",
+    "artists": "C418",
+    "midiFilename": "Haggstrom.mid",
+    "imageFilename": "Minecraft_Alpha_OST.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Dumb Ways to Die",
+    "artists": "Tangerine Kitty",
+    "midiFilename": "Dumb_Ways_to_Die.mid",
+    "imageFilename": "Dumb_Ways_to_Die.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Death by Glamour",
+    "artists": "Toby Fox",
+    "midiFilename": "Death_by_Glamour.mid",
+    "imageFilename": "Undertale_OST.png",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Corridors of Time",
+    "artists": "Yasunori Mitsuda",
+    "midiFilename": "Corridors_of_Time.mid",
+    "imageFilename": "Chrono_Trigger_OST.jpg",
+    "githubUser": "CrimsonfiedOfficial"
   }
 ]
