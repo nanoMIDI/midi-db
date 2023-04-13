@@ -68,5 +68,12 @@
     "midiFilename": "Viva_La_Vida.mid",
     "imageFilename": "Viva_La_Vida.png",
     "githubUser": "Raven13111"
-  }
+  },
+  {
+    "name": "Unravel",
+    "artists": "Toru Kitajima",
+    "midiFilename": "Unravel.mid",
+    "imageFilename": "Unravel.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
 ]
