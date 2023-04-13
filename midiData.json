@@ -103,5 +103,33 @@
     "midiFilename": "Spider_Dance.mid",
     "imageFilename": "Undertale_OST.png",
     "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Rush E",
+    "artists": "Sheet Music Boss",
+    "midiFilename": "Rush_E.mid",
+    "imageFilename": "Rush_Collection.jpeg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Spooky Scary Skeletons",
+    "artists": "Andrew Gold",
+    "midiFilename": "Spooky_Scary_Skeletons.mid",
+    "imageFilename": "Spooky_Scary_Skeletons.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "River Flows in You",
+    "artists": "Yiruma",
+    "midiFilename": "River_Flows_in_You.mid",
+    "imageFilename": "River_Flows_in_You.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Wii Shop Channel Theme",
+    "artists": "Kazumi Totaka",
+    "midiFilename": "Wii_Shop_Channel_Theme.mid",
+    "imageFilename": "Wii_Shop_Channel.jpeg",
+    "githubUser": "CrimsonfiedOfficial"
   }
 ]
