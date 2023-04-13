@@ -173,5 +173,19 @@
     "midiFilename": "Corridors_of_Time.mid",
     "imageFilename": "Chrono_Trigger_OST.jpg",
     "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Coconut Mall",
+    "artists": "Ryo Nagamatsu",
+    "midiFilename": "Coconut_Mall.mid",
+    "imageFilename": "Mario_Kart_Wii_OST.jpeg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Believer",
+    "artists": "Imagine Dragone",
+    "midiFilename": "Believer.mid",
+    "imageFilename": "Evolve.jpg",
+    "githubUser": "CrimsonfiedOfficial"
   }
 ]
