@@ -75,5 +75,33 @@
     "midiFilename": "Unravel.mid",
     "imageFilename": "Unravel.jpg",
     "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Another Love",
+    "artists": "Tom Odell",
+    "midiFilename": "Another_Love.mid",
+    "imageFilename": "Another_Love.jpeg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Ballin",
+    "artists": "Mustard, Roddy Rich",
+    "midiFilename": "Ballin'.mid",
+    "imageFilename": "Ballin'.jpg",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Hopes and Dreams",
+    "artists": "Toby Fox",
+    "midiFilename": "Hopes_and_Dreams.mid",
+    "imageFilename": "Undertale_OST.png",
+    "githubUser": "CrimsonfiedOfficial"
+  },
+  {
+    "name": "Spider Dance",
+    "artists": "Toby Fox",
+    "midiFilename": "Spider_Dance.mid",
+    "imageFilename": "Undertale_OST.png",
+    "githubUser": "CrimsonfiedOfficial"
   }
 ]
