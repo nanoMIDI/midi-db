@@ -1207,5 +1207,13 @@
     "imageFilename": "lightswitch.jpg",
     "githubUser": "NotHammer043",
     "arrangement": ""
-  }
+  },
+  {
+   "name": "Georgy Porgy",
+   "artists": "Toto",
+   "midiFilename": "TOTO - Georgy Porgy.mid",
+   "imageFilename": "toto.jpg",
+   "githubUser": "lolxdaaa1"
+   "arrangement": "Unknown Arranger"	
+}
 ]
