@@ -1,8 +1,0 @@
-{
-  "name": "string [must be official name]",
-  "artists": "string [must put all artists]",
-  "genre": "string, [check genres.txt or request]",
-  "midiFilename": "string",
-  "imageFilename": "string",
-  "githubUser": "string [only your username]"
-}
